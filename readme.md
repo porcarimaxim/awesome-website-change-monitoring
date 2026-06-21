@@ -54,6 +54,7 @@ Closed source unless indicated otherwise.
 - [OnWebChange][]
 - [PageFreezer][]
 - [PageCrawl][]
+- [Snaplert][]. Visual page change monitoring with before/after screenshots, element/zone selection, and email/webhook alerts.
 - [TheWebWatcher][] :beer:
 - [Trackly][]
 - [Versionista][]
@@ -113,4 +114,5 @@ related or neighboring rights to this work.
    [timemachine-code]: https://bitbucket.org/metamorfozis/news
    [website-change-monitor]: https://github.com/JuanmaMenendez/website-change-monitor
    [changedetection.io]: https://changedetection.io/
+   [snaplert]: https://snaplert.com/
 
